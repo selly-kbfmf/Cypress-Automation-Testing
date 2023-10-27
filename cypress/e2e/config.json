@@ -1,0 +1,18 @@
+
+{
+    "CONTENT_TYPE" : "application/json",
+    "BASE_URL_DEV" : "https://dev-merchant-api.kreditplus.com/",
+    "BASE_URL_TESTING" : "https://testing-merchant-api.kbfinansia.com/",
+    "BASE_URL_STAGING" : "https://merchant-api.kbfinansia.com/",
+    "V1" : "api/v1/",
+    "V2" : "api/v2/",
+    "URL_API_LOGIN": "auth/login",
+    "URL_API_MERCHANT" : "auth/merchants",
+    "URL_API_ASSET" : "merchants/mdm/asset?",
+    "URL_API_GENERATE_PPID" : "merchants/used-car/orders/prospect-id",
+    "URL_API_CREATE_ORDER" : "merchants/used-car/orders/create",
+    "URL_API_DASHBOARD" : "auth/dashboards/weekly?",
+    "AUTHORIZATION": "d194f441-472f-4161-b6fe-8731e845e2a4",
+    "AUTHORIZATION_MERCHANT": "Bearer "
+
+ }
